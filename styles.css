@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(124, 16, 16);
+    text-align: center;
+   
+}
+
+
+h1 {
+    color: darkcyan;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: darkgoldenrod;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+table,th,td {
+    border: 2px dotted darkcyan;
+    align-content: center;
+    color: darkgoldenrod;
+}
+.table1 {
+    width: 100%;
+    border: 2px solid;
+    border-color: whitesmoke;
+    margin: auto;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    table-layout: fixed;
+    
+    }
+
+
+.table2 {
+    width: 80%;
+    text-align: center;
+    border: 2px solid;
+    border-color: whitesmoke;
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+    table-layout: fixed;
+    table-layout: initial;
+}
+
+th {
+    color: aqua;
+}
